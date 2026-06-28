@@ -1,0 +1,14 @@
+## .NET build output
+bin/
+obj/
+artifacts/
+
+## NuGet
+*.nupkg
+*.snupkg
+
+## IDE / user-specific
+.idea/
+.vs/
+*.user
+*.DotSettings.user
