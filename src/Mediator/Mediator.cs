@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
 using System.Reflection;
 
-namespace Mediator;
+namespace Personix.Mediator;
 
 internal sealed class Mediator(IServiceProvider serviceProvider, IReadOnlyList<Type> behaviorTypes) : ISender
 {

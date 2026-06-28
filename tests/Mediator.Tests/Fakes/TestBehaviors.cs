@@ -1,4 +1,4 @@
-namespace Mediator.Tests.Fakes;
+namespace Personix.Mediator.Tests.Fakes;
 
 public sealed class OrderTrackingBehavior<TRequest, TResponse>(List<string> log)
     : IPipelineBehavior<TRequest, TResponse>

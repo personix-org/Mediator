@@ -1,7 +1,7 @@
 using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Mediator;
+namespace Personix.Mediator;
 
 public static class MediatorServiceRegistration
 {

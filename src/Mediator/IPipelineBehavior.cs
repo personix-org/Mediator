@@ -1,4 +1,4 @@
-namespace Mediator;
+namespace Personix.Mediator;
 
 public interface IPipelineBehavior<in TRequest, TResponse>
     where TRequest : notnull

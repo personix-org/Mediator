@@ -1,6 +1,6 @@
 using System.Reflection;
 
-namespace Mediator;
+namespace Personix.Mediator;
 
 public sealed class MediatorConfiguration
 {

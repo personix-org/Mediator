@@ -3,6 +3,8 @@
   <PropertyGroup>
     <IsPackable>true</IsPackable>
     <PackageId>Personix.Mediator</PackageId>
+    <AssemblyName>Personix.Mediator</AssemblyName>
+    <RootNamespace>Personix.Mediator</RootNamespace>
     <Version>1.0.0</Version>
     <Authors>Pavel Kudrna</Authors>
     <Company>Personix</Company>

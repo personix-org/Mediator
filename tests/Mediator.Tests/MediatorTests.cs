@@ -1,7 +1,7 @@
 using Microsoft.Extensions.DependencyInjection;
-using Mediator.Tests.Fakes;
+using Personix.Mediator.Tests.Fakes;
 
-namespace Mediator.Tests;
+namespace Personix.Mediator.Tests;
 
 public sealed class MediatorTests
 {

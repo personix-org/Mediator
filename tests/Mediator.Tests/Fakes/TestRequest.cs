@@ -1,4 +1,4 @@
-namespace Mediator.Tests.Fakes;
+namespace Personix.Mediator.Tests.Fakes;
 
 public sealed record TestRequest(string Value) : IRequest<TestResult>;
 
